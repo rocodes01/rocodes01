@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I am Rohit Kumar Singh, a Full Stack Web Developer
+# I am Rohit Kumar Singh, a JavaScript Developer
 
 <!--
 **rocodes01/rocodes01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
